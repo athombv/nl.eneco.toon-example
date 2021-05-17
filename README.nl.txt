@@ -1,0 +1,1 @@
+Met de slimme thermostaat Toon heb je altijd inzicht in je energieverbruik en hoe je kunt besparen. Daarnaast regel je op afstand je verwarming en de temperatuur in huis. Verbind je Toon thermostaat met Homey en thuiskomen in een koud huis is verleden tijd.

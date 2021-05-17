@@ -1,0 +1,30 @@
+{
+  "name": "nl.eneco.toon",
+  "version": "1.0.0",
+  "description": "Let Homey control your Toon!",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "homey-log": "^2.0.1",
+    "homey-oauth2app": "^3.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-athom": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/nl.eneco.toon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/nl.eneco.toon/issues"
+  },
+  "homepage": "https://github.com/athombv/nl.eneco.toon#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}

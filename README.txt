@@ -1,0 +1,1 @@
+With Toon’s thermostat you can set the target temperature, read the room temperature and have insight into your energy consumption. Connect Toon with Homey and you'll never arrive at a frigid house again.

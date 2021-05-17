@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "title": "Toon Account",
+    "login_intro": "Klik hier om in te loggen met je Toon account.",
+    "login_button": "Login",
+    "logged_in": "Je bent momenteel ingelogd.",
+    "logout_intro": "Klik hier om uit te loggen.",
+    "logout_button": "Log uit"
+  },
+  "authentication": {
+    "connecting": "Bezig met verbinden...",
+    "re-authorize": "Log opnieuw in via de Toon App Instellingen.",
+    "device_not_found": "Apparaat niet gevonden, probeer opnieuw in te loggen met het juiste Toon account.",
+    "re-login_failed": "Er is iets fout gegaan bij het opnieuw inloggen.",
+    "re-login_failed_with_error": "Er is iets fout gegaan bij het opnieuw inloggen (error: __error__)"
+  },
+  "capability": {
+    "error_enable_program": "Kon programma niet aanzetten (error: __error__)",
+    "error_disable_program": "Kon programma niet uitzetten (error: __error__)",
+    "error_set_temperature_state": "Kon temperatuurstand niet aanpassen (error: __error__)",
+    "error_set_target_temperature": "Kon doeltemperatuur niet instellen (error: __error__)",
+    "error_set_target_temperature_invalid_value": "Kon doeltemperatuur niet instellen, ongeldige temperatuur waarde (error: __error__)"
+  },
+  "api": {
+    "retry": "Er ging iets fout, probeer het later opnieuw.",
+    "error_login_failed": "Kon niet inloggen (error: __error___)",
+    "error_logout_failed": "Kon niet uitloggen (error: __error___)",
+    "error_get_authenticated_state": "Kon login status niet ophalen (error: __error___)",
+    "error_webhook_registration": "De Toon API geeft een foutmelding, mogelijk werkt het apparaat niet zoals verwacht."
+  },
+  "pairing": {
+    "agreement_error": "Er ging iets fout bij het inloggen, probeer het later opnieuw."
+  }
+}

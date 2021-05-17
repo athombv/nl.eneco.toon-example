@@ -1,0 +1,27 @@
+{
+  "2.1.22": {
+    "en": "Removed trademark references"
+  },
+  "2.1.23": {
+    "en": "Added brand color"
+  },
+  "2.1.24": {
+    "en": "Updated app and device icons, improved app description, implemented new authentication process."
+  },
+  "2.1.25": {
+    "en": "Fixed a bug that could prevent Homey from receiving data from Toon, enhanced stability, improved app description."
+  },
+  "2.2.0": {
+    "en": "Added support for humidity measurements, only available on Toon devices with this feature."
+  },
+  "2.3.0": {
+    "en": "Added support for repairing."
+  },
+  "3.0.0": {
+    "en": "Updated to the latest Homey Apps SDK version.",
+    "nl": "Bijgewerkt naar de meest recente Homey Apps SDK versie."
+  },
+  "3.0.1": {
+    "en": "Updated to the latest Homey Apps SDK version."
+  }
+}

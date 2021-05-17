@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "title": "Toon Account",
+    "login_intro": "Click here to login with your Toon account.",
+    "login_button": "Login",
+    "logged_in": "You are currently logged in.",
+    "logout_intro": "Click here to logout.",
+    "logout_button": "Logout"
+  },
+  "authentication": {
+    "connecting": "Connecting...",
+    "re-authorize": "Please re-authorize through the Toon App Settings.",
+    "device_not_found": "Device could not be found, try logging in again with the right Toon account.",
+    "re-login_failed": "Something went wrong when logging in.",
+    "re-login_failed_with_error": "Something went wrong when logging in (error: __error__)"
+  },
+  "capability": {
+    "error_enable_program": "Could not enable program (error: __error__)",
+    "error_disable_program": "Could not disable program (error: __error__)",
+    "error_set_temperature_state": "Could not change temperature state (error: __error__)",
+    "error_set_target_temperature": "Could not change target temperature (error: __error__)",
+    "error_set_target_temperature_invalid_value": "Could not change target temperature, invalid temperature value (error: __error__)"
+  },
+  "api": {
+    "retry": "Something went wrong, try again later.",
+    "error_login_failed": "Could not login (error: __error___)",
+    "error_logout_failed": "Could not logout (error: __error___)",
+    "error_get_authenticated_state": "Could not get current login state (error: __error___)",
+    "error_webhook_registration": "The Toon API returned an error, your device might not behave as expected."
+  },
+  "pairing": {
+    "agreement_error": "Something went wrong during authentication, try again later."
+  }
+}

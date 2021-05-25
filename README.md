@@ -12,7 +12,8 @@ Read the [Homey Apps SDK Documentation](https://apps.developer.homey.app) for mo
 This app enables Homey to control your Toon! Supported features are: setting the target temperature, reading the room temperature and displaying your electricity usage in Insights!
 
 This is achieved by using the Toon API and the [CreateOauth2Callback](https://apps-sdk-v3.developer.homey.app/ManagerCloud.html#createOAuth2Callback) function.
-Read more about Oauth2 for your Homey App: https://apps.developer.homey.app/cloud/oauth2
+Read more about OAuth 2.0 for your Homey App: https://apps.developer.homey.app/cloud/oauth2.
 
-NOTE: Currently the Toon API poses some limitations, gas measurement events are not pushed to Homey and only one Toon can be installed on a Homey at a time. We are waiting for these features to be implemented by Toon API.
+NOTE: Currently the Toon API poses some limitations: gas measurement events are not pushed to Homey and only one Toon can be installed on a Homey at a time. We are waiting for these features to be implemented by Toon API.
+
 DISCLAIMER: This application uses the Toon API but has not been developed, certified or otherwise approved on behalf of or on the instructions of Toon.
